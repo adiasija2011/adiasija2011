@@ -64,14 +64,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Engineering graduate stu
 
 ![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiasija2011&show_icons=true&theme=radical)
 
-## 🌱 What I'm Currently Working On
-
-I'm constantly exploring new frontiers in AI and machine learning. Right now, I'm focused on reinforcement learning applications in healthcare and traffic systems.
 
 ## 📈 GitHub Activity Graph
 
 ![Adi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=adiasija2011&theme=react-dark)
-
----
-
-Feel free to customize the links, profile picture, and other details to fit your preferences. This README should provide a comprehensive and approachable overview of your professional profile and technical expertise.
