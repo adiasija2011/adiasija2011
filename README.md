@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Adi Asija
-Welcome to my GitHub profile! I'm a passionate Computer Engineering graduate student at Johns Hopkins University, with a love for artificial intelligence, machine learning, and deep learning. Take a look around to see what I've been working on!
+Welcome to my GitHub profile! I'm a passionate Electrical and Computer Engineering graduate student at Johns Hopkins University, with a love for artificial intelligence, machine learning, and deep learning. Take a look around to see what I've been working on!
 
 ## 🌐 Connect with Me
 
