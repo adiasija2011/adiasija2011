@@ -17,7 +17,12 @@ Feel free to explore my projects and reach out if you share similar interests or
 1. **Research Paper:** [A Simulation-to-Real Transfer for Learning Congestion Aware Estimation Over Wireless Networks](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24332269.v1) by Shivangi Agarwal, Adi Asija, et al. (2023)
 2. **Survey:** [Green manufacturing via machine learning enabled approaches](https://link.springer.com/article/10.1007/s12008-022-01136-0) by Aditya Raj, Amogh Gyaneshwar, et al. (IJIDeM, Springer 2023)
 
-   ## 💻 Technical Skills
+
+Absolutely, here’s an expanded version of your technical skills with more technologies and platforms:
+
+markdown
+Copy code
+## 💻 Technical Skills
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,6 +32,10 @@ Feel free to explore my projects and reach out if you share similar interests or
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Technologies/Platforms
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -45,17 +54,14 @@ Feel free to explore my projects and reach out if you share similar interests or
 ![LLMs](https://img.shields.io/badge/Large_Language_Models-00599C?style=for-the-badge&logo=large-language-models&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-34A853?style=for-the-badge&logo=chatgpt&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=bert&logoColor=white)
-
-## 🔬 Projects
-
-[![Galore_ScGPT](https://github-readme-stats.vercel.app/api/pin/?username=adiasija2011&repo=Galore_ScGPT)](https://github.com/adiasija2011/Galore_ScGPT)
-**[Galore_ScGPT](https://github.com/adiasija2011/Galore_ScGPT)**: Fine-tuned the SCGPT model for single-cell data analysis using the Galore library. Enhanced memory efficiency during training and improved model accuracy for high-dimensional single-cell datasets. Workflow included data preparation, model initialization, fine-tuning with Galore, and performance evaluation using visualization tools.
-
-[![UltraSonicLearner](https://github-readme-stats.vercel.app/api/pin/?username=adiasija2011&repo=UltraSonicLearner)](https://github.com/adiasija2011/UltraSonicLearner)
-**[MLSP Project - UltraSonicLearner](https://github.com/adiasija2011/UltraSonicLearner)**: Trained a trans-Unet architecture for breast cancer tumor detection on ultrasound data, achieving a DICE score of 0.89.
-
-[![Biased AI Clinician](https://github-readme-stats.vercel.app/api/pin/?username=adiasija2011&repo=biased_ai_clinician)](https://github.com/adiasija2011/biased_ai_clinician)
-**[Biased AI Clinician](https://github.com/adiasija2011/biased_ai_clinician)**: Developed a Python reimplementation of the AI Clinician model for sepsis treatment from Nature Medicine. Enhanced memory efficiency and accuracy, replicating and extending the original Matlab code. Workflow included data extraction, sepsis cohort definition, dataset creation, reinforcement learning, and result visualization using MIMIC-III dataset.
-
-[![Deep VN](https://github-readme-stats.vercel.app/api/pin/?username=adiasija2011&repo=deep_vn)](https://github.com/adiasija2011/deep_vn)
-**[Deep VN](https://github.com/adiasija2011/deep_vn)**: Developed a simulator for high-traffic Vehicle-to-Everything (V2X) environments as part of an internship at the Wireless Systems Lab, IIIT Delhi. Implemented machine learning models for traffic prediction and optimization using SUMO and Python, providing a realistic testbed for evaluating various traffic scenarios and strategies.
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
