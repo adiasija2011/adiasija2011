@@ -74,6 +74,7 @@ Welcome to my GitHub profile! I'm a master's student in Electrical and Computer 
 - **[Galore_ScGPT](https://github.com/adiasija2011/Galore_ScGPT)**: Fine-tuned the SCGPT model for single-cell data analysis using the Galore library. Enhanced memory efficiency during training and improved model accuracy for high-dimensional single-cell datasets. Workflow included data preparation, model initialization, fine-tuning with Galore, and performance evaluation using visualization tools.
 - **[MLSP Project - UltraSonicLearner](https://github.com/adiasija2011/UltraSonicLearner)**: Trained a trans-Unet architecture for breast cancer tumor detection on ultrasound data, achieving a DICE score of 0.89.
 - **[Biased AI Clinician](https://github.com/adiasija2011/biased_ai_clinician)**: Developed a Python reimplementation of the AI Clinician model for sepsis treatment from Nature Medicine. Enhanced memory efficiency and accuracy, replicating and extending the original Matlab code. Workflow included data extraction, sepsis cohort definition, dataset creation, reinforcement learning, and result visualization using MIMIC-III dataset.
+- **[Deep VN](https://github.com/adiasija2011/deep_vn)**: Developed a simulator for high-traffic Vehicle-to-Everything (V2X) environments as part of an internship at the Wireless Systems Lab, IIIT Delhi. Implemented machine learning models for traffic prediction and optimization using SUMO and Python, providing a realistic testbed for evaluating various traffic scenarios and strategies.
 
 
 
