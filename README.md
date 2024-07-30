@@ -1,7 +1,3 @@
-Here's the revised version of your GitHub README:
-
----
-
 # 👋 Hi, I'm Adi Asija
 
 Welcome to my GitHub profile! I'm a master's student in Electrical and Computer Engineering at Johns Hopkins University, with a keen interest in natural language processing and reinforcement learning. Outside of my academic and professional pursuits, I enjoy playing tennis and strumming my guitar. Feel free to explore my projects and connect if you share similar interests!
