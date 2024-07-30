@@ -17,10 +17,6 @@ Feel free to explore my projects and reach out if you share similar interests or
 1. **Research Paper:** [A Simulation-to-Real Transfer for Learning Congestion Aware Estimation Over Wireless Networks](https://www.techrxiv.org/doi/full/10.36227/techrxiv.24332269.v1) by Shivangi Agarwal, Adi Asija, et al. (2023)
 2. **Survey:** [Green manufacturing via machine learning enabled approaches](https://link.springer.com/article/10.1007/s12008-022-01136-0) by Aditya Raj, Amogh Gyaneshwar, et al. (IJIDeM, Springer 2023)
 
-
-Absolutely, here’s an expanded version of your technical skills with more technologies and platforms:
-
-markdown
 Copy code
 ## 💻 Technical Skills
 
