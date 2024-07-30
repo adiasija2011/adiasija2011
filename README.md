@@ -71,13 +71,10 @@ Welcome to my GitHub profile! I'm a master's student in Electrical and Computer 
 2. **Survey:** [Green manufacturing via machine learning enabled approaches](https://link.springer.com/article/10.1007/s12008-022-01136-0) by Aditya Raj, Amogh Gyaneshwar, et al. (IJIDeM, Springer 2023)
 
 ## 🔬 Projects
-
-- **[Deep Reinforcement Learning based Sepsis Prediction](https://github.com/adiasija2011/Sepsis-Prediction)**: Developed a deep Q learning network using PyTorch for optimal Sepsis treatment protocols using the MIMIC-IV dataset.
-- **[Reinforcement Learning based Traffic Control System](https://github.com/adiasija2011/Traffic-Control)**: Created a double DQN model to reduce traffic congestion by 60% using SUMO and Python.
-- **[IoT Enabled Home Security System](https://github.com/adiasija2011/Home-Security)**: Engineered a security system with ultrasound-based intruder detection and facial recognition using Raspberry Pi and TensorFlow.
-- **[One Shot Learning Based Facial Recognition](https://github.com/adiasija2011/OneShot-FacialRecognition)**: Trained a Siamese Neural Network achieving 87% accuracy on the Olivetti dataset.
-- **[American Sign Language Detection using Microcontrollers](https://github.com/adiasija2011/ASL-Detection)**: Created a glove-based solution for ASL recognition with text and audio output using Raspberry Pi and Arduino.
+- **[Galore_ScGPT](https://github.com/adiasija2011/Galore_ScGPT)**: Fine-tuned the SCGPT model for single-cell data analysis using the Galore library. Enhanced memory efficiency during training and improved model accuracy for high-dimensional single-cell datasets. Workflow included data preparation, model initialization, fine-tuning with Galore, and performance evaluation using visualization tools.
 - **[MLSP Project - UltraSonicLearner](https://github.com/adiasija2011/UltraSonicLearner)**: Trained a trans-Unet architecture for breast cancer tumor detection on ultrasound data, achieving a DICE score of 0.89.
+
+
 
 ## 📊 GitHub Stats
 
