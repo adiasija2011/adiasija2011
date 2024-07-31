@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Adi Asija
 
-Welcome to my GitHub profile! I'm a master's student in Electrical and Computer Engineering at Johns Hopkins University, deeply passionate about natural language processing and reinforcement learning. My journey in tech has led me through exciting projects like developing chatbots for research paper summarization, creating simulators for high-traffic V2X environments, and training reinforcement learning algorithms for healthcare applications.
+Welcome to my GitHub profile! I'm a master's student in Electrical and Computer Engineering at Johns Hopkins University, deeply passionate about natural language processing and reinforcement learning.
+My journey in tech has led me through exciting projects like developing chatbots for research paper summarization, creating simulators for high-traffic V2X environments, and training reinforcement learning algorithms for healthcare applications.
 
 Beyond my academic and professional pursuits, I love playing tennis and strumming my guitar. 
 
